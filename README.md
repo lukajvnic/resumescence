@@ -8,7 +8,7 @@ All resumes or latex documents that are distinct from one another are separated 
 Each project contains multiple features:
 1) Definitions
 	- Latex file where a user can set up custom definitions
- 2) Components
+2) Components
 	 - A document is a file, like a resume.
 	 - When a document is edited, it is either overwritten or saved as a copy
 		 - this allows for quick iteration
